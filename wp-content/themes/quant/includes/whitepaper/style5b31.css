@@ -1,0 +1,16 @@
+.contact_detail.whitepaper-contact {
+	margin: 0;
+}
+
+.err {
+	border: 1px solid #ff0000 !important;
+}
+
+div.err {
+    background-color: #ffdddd;
+    color: #330000;
+    padding: 10px;
+    border: 1px solid #ccaaaa;
+    margin: 0px 0px 20px 0px;
+    display: none;
+}
